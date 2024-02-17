@@ -1,0 +1,10 @@
+C:\Users\grege\source\repos\Kontakty\Kontakty\bin\Debug\Kontakty.exe.config
+C:\Users\grege\source\repos\Kontakty\Kontakty\bin\Debug\Kontakty.exe
+C:\Users\grege\source\repos\Kontakty\Kontakty\bin\Debug\Kontakty.pdb
+C:\Users\grege\source\repos\Kontakty\Kontakty\obj\Debug\Kontakty.csproj.AssemblyReference.cache
+C:\Users\grege\source\repos\Kontakty\Kontakty\obj\Debug\Kontakty.Form1.resources
+C:\Users\grege\source\repos\Kontakty\Kontakty\obj\Debug\Kontakty.Properties.Resources.resources
+C:\Users\grege\source\repos\Kontakty\Kontakty\obj\Debug\Kontakty.csproj.GenerateResource.cache
+C:\Users\grege\source\repos\Kontakty\Kontakty\obj\Debug\Kontakty.csproj.CoreCompileInputs.cache
+C:\Users\grege\source\repos\Kontakty\Kontakty\obj\Debug\Kontakty.exe
+C:\Users\grege\source\repos\Kontakty\Kontakty\obj\Debug\Kontakty.pdb
